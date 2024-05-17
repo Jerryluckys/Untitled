@@ -28,7 +28,7 @@ background-color:rgba(31.264063082635403, 129.31955516338348, 227.37499594688416
 border-radius:7.0px;
 }
 
-#_1_3 {
+#Contact_Support {
 position:absolute;
 left:37.0px;
 top:17.0px;
@@ -43,113 +43,5 @@ justify-content:LEFT;
 align-items:start;
 color:rgba(255.0, 255.0, 255.0, 1.0);
 display:flex;
-}
-
-#_1_5 {
-position:absolute;
-left:556.0px;
-top:130.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_8 {
-position:absolute;
-left:556.0px;
-top:206.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_11 {
-position:absolute;
-left:556.0px;
-top:282.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_6 {
-position:absolute;
-left:556.0px;
-top:136.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_9 {
-position:absolute;
-left:556.0px;
-top:212.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_12 {
-position:absolute;
-left:556.0px;
-top:288.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_7 {
-position:absolute;
-left:556.0px;
-top:143.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_10 {
-position:absolute;
-left:556.0px;
-top:219.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
-}
-
-#_1_13 {
-position:absolute;
-left:556.0px;
-top:295.0px;
-height:1.0px;
-width:10.0px;
-border-bottom:0px !important;
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(0.0, 0.0, 0.0, 0.5);
 }
 
