@@ -47,8 +47,8 @@ display:flex;
 
 #_85_2 {
 position:absolute;
-left:676.0px;
-top:147.0px;
+left:1102.0px;
+top:338.0px;
 height:191.0px;
 width:141.0px;
 background-color:rgba(255.0, 255.0, 255.0, 1.0);
@@ -74,8 +74,8 @@ display:flex;
 
 #_85_3 {
 position:absolute;
-left:542.0px;
-top:338.0px;
+left:289.0px;
+top:130.0px;
 height:191.0px;
 width:141.0px;
 background-color:rgba(255.0, 255.0, 255.0, 1.0);
@@ -97,5 +97,21 @@ justify-content:LEFT;
 align-items:start;
 color:rgba(0.0, 0.0, 0.0, 1.0);
 display:flex;
+}
+
+#_93_6 {
+position:absolute;
+left:499.0px;
+top:300.0px;
+height:239.0px;
+width:255.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_93_6_svg {
+width:100%;
+height:100%;
 }
 
