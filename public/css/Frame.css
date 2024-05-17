@@ -47,7 +47,7 @@ display:flex;
 
 #_85_2 {
 position:absolute;
-left:58.0px;
+left:150.0px;
 top:93.0px;
 height:191.0px;
 width:141.0px;
@@ -55,13 +55,47 @@ background-color:rgba(255.0, 255.0, 255.0, 1.0);
 border-radius:7.0px;
 }
 
+#Play {
+position:absolute;
+left:34.0px;
+top:58.0px;
+height:24.0px;
+width:40.0px;
+font-family:Inter;
+font-weight:400;
+font-size:20.0px;
+letter-spacing:0.0px;
+line-height:100.0%;
+justify-content:LEFT;
+align-items:start;
+color:rgba(0.0, 0.0, 0.0, 1.0);
+display:flex;
+}
+
 #_85_3 {
 position:absolute;
-left:349.0px;
+left:304.0px;
 top:93.0px;
 height:191.0px;
 width:141.0px;
 background-color:rgba(255.0, 255.0, 255.0, 1.0);
 border-radius:7.0px;
+}
+
+#Play_Not {
+position:absolute;
+left:31.0px;
+top:60.0px;
+height:24.0px;
+width:80.0px;
+font-family:Inter;
+font-weight:400;
+font-size:20.0px;
+letter-spacing:0.0px;
+line-height:100.0%;
+justify-content:LEFT;
+align-items:start;
+color:rgba(0.0, 0.0, 0.0, 1.0);
+display:flex;
 }
 
