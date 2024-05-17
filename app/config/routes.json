@@ -16,6 +16,11 @@
             "page": "index",
             "routeType": "page",
             "layout": "index"
+        },
+        {
+            "path": "/Frame",
+            "page": "Frame",
+            "layout": "Frame"
         }
     ]
 }
